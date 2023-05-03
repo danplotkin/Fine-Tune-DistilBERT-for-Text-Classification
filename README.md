@@ -1,6 +1,6 @@
 # Fine-Tune-DistilBERT-for-Text-Classification
 
-This project is a deep learning model designed to classify a disease based on a patient's reported symptoms. The model is fine-tuned using the distilBERT architecture from Hugging Face, which has been trained on a large corpus of text data and is capable of producing high-quality language representations.
+This project is a deep learning model designed to classify a disease based on a patient's reported symptoms. The model is fine-tuned using the DistilBERT architecture from `Hugging Face`, which has been trained on a large corpus of text data and is capable of producing high-quality language representations.
 
 ### About DistilBERT
 
