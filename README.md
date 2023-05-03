@@ -8,7 +8,7 @@ BERT (Bidirectional Encoder Representations from Transformers) is a large natura
 
 DistilBERT is a variant of the BERT architecture developed by Hugging Face that aims to make the model more efficient. It achieves this by using a smaller architecture with fewer parameters, which allows it to be trained more quickly and deployed on devices with limited computational resources. While DistilBERT has fewer parameters, it has been shown to produce representations that are almost as good as those produced by the larger model. DistilBERT has been shown to outperform BERT in terms of accuracy and efficiency.
 
-[Click to View Notebook](https://github.com/danplotkin/Fine-Tune-DistilBERT-for-Text-Classification](https://github.com/danplotkin/Fine-Tune-DistilBERT-for-Text-Classification/blob/main/symptom2disease.ipynb)
+[Click to View Notebook](https://github.com/danplotkin/Fine-Tune-DistilBERT-for-Text-Classification/blob/main/symptom2disease.ipynb)
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/danplotkin/Fine-Tune-DistilBERT-for-Text-Classification/blob/main/symptom2disease.ipynb)
 
